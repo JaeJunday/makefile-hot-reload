@@ -20,7 +20,7 @@ brew install fswatch
     따라서 소스파일과 헤더파일의 파일 구성 경로가 다른경우 스크립트내의 경로를 적절하게 설정해주어야 합니다. 또한 makefile의 변수 이름을 GNU/Makefile 메뉴얼과 동일하게 작성해야 스크립트가 정상 작동합니다.
 
 > 올바른 변수 이름
-CC
-CFLAGS
+CC <br>
+CFLAGS <br>
 CXXFLAGS
 
