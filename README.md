@@ -8,7 +8,7 @@ brew install fswatch
 ```
 
 2. 자동 스크립트 복사, 붙여넣기
-<img width="176" alt="Screen Shot 2024-02-18 at 11 28 10 AM" src="https://github.com/JaeJunday/42script/assets/109643814/7143ea7f-db32-4cc7-852b-a3a9ff727065">
+<img width="277" alt="Screen Shot 2024-02-18 at 11 47 25 AM" src="https://github.com/JaeJunday/42script/assets/109643814/bcce6d99-8bf0-4523-8684-b04aa73aae6a">
 
 위의 이미지와 동일하게 프로젝트의 Makefile의 경로와 같은 위치에 스크립트를 붙여 넣으세요.
 
