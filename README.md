@@ -6,9 +6,11 @@
 ``` shell
 brew install fswatch
 ```
+
+2. 자동 스크립트 복사, 붙여넣기
 <img width="176" alt="Screen Shot 2024-02-18 at 11 28 10 AM" src="https://github.com/JaeJunday/42script/assets/109643814/7143ea7f-db32-4cc7-852b-a3a9ff727065">
 
-위의 이미지와 동일하게 프로젝트에 있는 Makefile 경로와 같은 위치에 스크립트를 붙여 넣으세요.
+위의 이미지와 동일하게 프로젝트의 Makefile의 경로와 같은 위치에 스크립트를 붙여 넣으세요.
 
 ### 해당 레포의 스크립트는 인터프리터에 존재하는 핫 리로드  기능을 정적 컴파일 언어인 c, c++에 사용하기 위해 작성되었습니다.
 
