@@ -15,4 +15,8 @@ chmod +x clear_cash.sh
     따라서 소스파일과 헤더파일의 파일 구성 경로가 다른경우 스크립트내의 경로를 적절하게 설정해주어야 합니다. 또한 makefile의 변수 이름을 GNU/Makefile 메뉴얼과 동일하게 작성해야 스크립트가 정상 작동합니다.
 
 
+### 설정방법
 
+<img width="176" alt="Screen Shot 2024-02-18 at 11 28 10 AM" src="https://github.com/JaeJunday/42script/assets/109643814/7143ea7f-db32-4cc7-852b-a3a9ff727065">
+
+위의 이미지와 동일하게 프로젝트에 있는 Makefile 경로와 같은 위치에 스크립트를 붙여 넣으세요.
