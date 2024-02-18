@@ -2,21 +2,23 @@
 
 ## 사용방법
 
-1. fswatch 설치
+### 1. fswatch 설치
 ``` shell
 brew install fswatch
 ```
 
-2. 자동 스크립트 복사, 붙여넣기
+### 2. 자동 스크립트 복사, 붙여넣기
 <img width="277" alt="Screen Shot 2024-02-18 at 11 47 25 AM" src="https://github.com/JaeJunday/42script/assets/109643814/bcce6d99-8bf0-4523-8684-b04aa73aae6a">
 
 위의 이미지와 동일하게 프로젝트의 Makefile의 경로와 같은 위치에 스크립트를 붙여 넣으세요.
 
-3. 하나의 프로세스에서 스크립트를 실행
+### 3. 하나의 프로세스에서 스크립트를 실행
 ``` shell
 chmod +x auto_c_compiler.sh
 ./auto_c_compiler.sh
 ```
+ <hr>
+ <br>
  
 ### 해당 레포의 스크립트는 인터프리터에 존재하는 핫 리로드  기능을 정적 컴파일 언어인 c, c++에 사용하기 위해 작성되었습니다.
 
